@@ -1,5 +1,9 @@
 # Sound Clustering Project
 
+# capstone idea
+[link to document](https://docs.google.com/document/d/1_DTJGhGrq1_dWkwI4sEaZtTH0HgXbFEl5fiGv7QOTYk/edit?usp=sharing)
+
+
 Unsupervised clustering of 3000 unlabeled audio files using machine learning techniques.
 
 ## Overview
